@@ -20,5 +20,6 @@ public class App
         logger.debug("Hello World!");
         logger.debug("Hello Franz-Peter!");
         logger.debug("Hello, I'm Daniel!");
+        logger.debug("Test123");
     }
 }
