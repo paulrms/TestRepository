@@ -21,5 +21,6 @@ public class App
         logger.debug("Hello Franz-Peter!");
         logger.debug("Hello, I'm Daniel!");
         logger.debug("Test123");
+        logger.debug("from Eclipse");
     }
 }
