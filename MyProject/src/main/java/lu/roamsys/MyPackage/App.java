@@ -4,7 +4,7 @@ import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
 
 /**
- * Hello world!
+ * Hello World!
  *
  */
 public class App 
@@ -20,5 +20,6 @@ public class App
         logger.debug("Hello World!");
         logger.debug("Hello Franz-Peter!");
         logger.debug("Hello, I'm Daniel!");
+        logger.debug("Test123");
     }
 }
