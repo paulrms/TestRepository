@@ -18,7 +18,7 @@ public class App
         
         BasicConfigurator.configure();
         logger.debug("Hello World!");
-        logger.debug("Hello Franz!");
+        logger.debug("Hello Franz-Peter!");
         
     }
 }
