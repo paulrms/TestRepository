@@ -1,4 +1,4 @@
-package lu.roamsys.HibernateTest;
+package lu.roamsys.MyPackage;
 
 import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
