@@ -16,6 +16,7 @@ public class App
 	
     public static void main( String[] args )
     {
+    	// print greetings to the console
         System.out.println( "Hello World!" );
         
         BasicConfigurator.configure();
