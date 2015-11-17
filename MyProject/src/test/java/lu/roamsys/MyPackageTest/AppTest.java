@@ -1,4 +1,4 @@
-package lu.roamsys.HibernateTest;
+package lu.roamsys.MyPackageTest;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
