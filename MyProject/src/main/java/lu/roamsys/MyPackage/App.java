@@ -22,5 +22,6 @@ public class App
         logger.debug("Hello, I'm Daniel!");
         logger.debug("Test123");
         logger.debug("Dies ist noch ein Test.");
+        logger.debug("und noch mal!!!");
     }
 }
