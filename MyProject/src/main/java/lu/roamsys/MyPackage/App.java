@@ -3,6 +3,8 @@ package lu.roamsys.MyPackage;
 import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
 
+import com.google.common.math.IntMath;
+
 /**
  * Hello World!
  *
@@ -21,5 +23,7 @@ public class App
         logger.debug("Hello Franz-Peter!");
         logger.debug("Hello, I'm Daniel!");
         logger.debug("Test123");
+        
+        System.out.println( IntMath.checkedAdd(5, 20));
     }
 }
