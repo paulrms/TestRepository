@@ -19,7 +19,7 @@ public class App
     	// print greetings to the console
         System.out.println( "Hello World!" );
         
-        System.out.println("Hey there!");
+        System.out.println("Hi!");
         
         BasicConfigurator.configure();
         logger.debug("Hello World!");
