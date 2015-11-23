@@ -26,6 +26,7 @@ public class App
         logger.debug("Hello Franz-Peter!!!!");
         logger.debug("Hello, I'm Daniel!");
         logger.debug("Test123");
+        logger.debug("Huhu");
         
         System.out.println( IntMath.checkedAdd(5, 20));
     }
